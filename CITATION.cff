@@ -1,9 +1,9 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-  - family-names: "名字"
-    given-names: "名前"
-title: "アプリの名前"
-version: 1.0.0
-date-released: 2024-05-20
+  - family-names: "Iida"
+    given-names: "Takeshi"
+title: "Fractional operators behaviour"
+version: 1.0
+date-released: 2026/02/09
 url: "https://github.com"
